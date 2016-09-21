@@ -21,7 +21,8 @@ var sequelize =  onHeroku ?
         protocol: 'postgres',
         dialectOptions: {
             ssl: true
-        }
+        },
+        socketPath: '/var/run/mysqld/mysqld.sock'
     })
     :
     new Sequelize(config.db.name, config.db.username, config.db.password, {
