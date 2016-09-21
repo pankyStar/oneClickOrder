@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-MEAN Stack Relational ![Mean Stack Build Status](https://travis-ci.org/jpotts18/mean-stack-relational.png)
+One click order ![Mean Stack Build Status](https://travis-ci.org/jpotts18/mean-stack-relational.png)
 =====================
 The main idea for this repository is shamelessly stolen from [http://mean.io](http://mean.io). It says:
 
@@ -80,11 +80,6 @@ Following is a list of items detailing future direction for MEAN Stack Relationa
 - Demonstrate testing for Express routes and javascript classes using Mocha, Sinon, Proxyquire and more
 - Demonstrating modularity by using javascript classes for complex backend functionality
 - Yeoman generator to compete with MEAN
-
-
-# Troubleshooting and Contact
-
-During install some of you may encounter some issues feel free to contact me (jpotts18) or the co-contributor (chaudhryjunaid), via the repository issue tracker or the links provided below. I am also available on twitter at [@jpotts18](http://twitter.com/jpotts18) and Junaid at [@chjunaidanwar](http://twitter.com/chjunaidanwar).
 =======
 # oneClickOrder
 One Click order 
